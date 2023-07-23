@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>/posts/thoughts/first-thought/</loc>
+      <lastmod>2023-07-24T00:00:00.000Z</lastmod>
+    </url>
+  
+    <url>
+      <loc>/posts/test/test-post/</loc>
+      <lastmod>2023-07-24T00:00:00.000Z</lastmod>
+    </url>
+  
+    <url>
+      <loc>/posts/stories/first-story/</loc>
+      <lastmod>2023-07-24T00:00:00.000Z</lastmod>
+    </url>
+  
+</urlset>
